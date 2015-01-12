@@ -8,6 +8,15 @@ Preserves hyperlinks.
 
 Does not scale anything, just adjusts margins.
 
+## Requirements
+
+* Python
+* pyPdf: 
+
+install pyPdf with:
+
+    pip install pypdf
+
 ## Usage:
 
     python a4.py infile.pdf outfile.pdf
