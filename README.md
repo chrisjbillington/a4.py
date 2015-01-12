@@ -1,4 +1,4 @@
-## a4.py
+# a4.py
 
 A script to crop a pdf to A4 size. Requires pyPdf or PyPDF2.
 
@@ -8,6 +8,6 @@ Preserves hyperlinks.
 
 Does not scale anything, just adjusts margins.
 
-# Usage:
+## Usage:
 
     python a4.py infile.pdf outfile.pdf
